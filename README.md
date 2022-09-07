@@ -1,16 +1,21 @@
-### Hi there 👋
+## ╔╍ ╍ ╍ ╍ ╍ ╍ ╍ ╍ ╍ ╍ ╍ ╍ ╍ ╍ ╍ ╍ ╍╗
+## ┇                                              ┇
+## ┇                  U N D E R                   ┇
+## ┇           C O N S T R U C T I O N            ┇
+## ┇                                              ┇
+## ╚╍ ╍ ╍ ╍ ╍ ╍ ╍ ╍ ╍ ╍ ╍ ╍ ╍ ╍ ╍ ╍ ╍╝
 
-<!--
-**ljfalcon234/ljfalcon234** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+┌──┤ WHOAMI ├─────────▰▰▰
+│
+├─▣ University Student
+├─▣ Digital Artist & Aspiring Web Designer
+├─▣ Pronouns: they / them
+├─▣ I know Java, C#, and a bit of Linux. Currently trying to learn C++, HTML, Javascript, Python, and Linux.
+│
+└───────────────────────────────▰▰▰
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+┌──┤ PROJECTS ├───────▰▰▰
+│
+├─◈ None atm. Mostly trying to get used to GitHub before I try anything too big.
+│
+└───────────────────────────────▰▰▰
